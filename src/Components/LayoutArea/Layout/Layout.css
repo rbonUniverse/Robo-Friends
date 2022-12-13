@@ -1,0 +1,12 @@
+.Layout {
+    height: 100%;
+    grid-template-rows: 15% 80% 5%;
+}
+
+.Layout>main {
+    height: 100%;
+}
+
+.Layout>hr {
+    margin-top: 20px;
+}

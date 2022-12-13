@@ -1,0 +1,10 @@
+.Footer {
+    height: 35px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.Footer>p {
+    font-size: large;
+}
